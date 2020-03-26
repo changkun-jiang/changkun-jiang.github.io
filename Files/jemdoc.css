@@ -9,8 +9,11 @@ table#tlayout {
 body {
 	background: white;
 	padding-bottom: 8px;
-	font-family: Hiragino Sans GB, Verdana, sans-serif;
+	/*font-family: Hiragino Sans GB, Verdana, sans-serif;*/
+	font-family: Palatino Linotype, Verdana, sans-serif;
 	font-size: 90%;
+	font-style: normal;
+        font-weight: 400;
 	margin: 0;
 }
 
