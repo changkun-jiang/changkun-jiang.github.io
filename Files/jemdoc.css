@@ -33,6 +33,7 @@ body {
 #layout-menu td {
 	background: #F8F8F8;
     vertical-align: top;
+	background-position: center 20px;
 }
 
 #layout-content {
