@@ -4,10 +4,12 @@ table#tlayout {
     border: none;
     border-collapse: separate;
     background: white;
+    background-position: center top;
 }
 
 body {
 	background: white;
+	background-position: center top;
 	padding-bottom: 8px;
 	/*font-family: Hiragino Sans GB, Palatino Linotype, Verdana, sans-serif;*/
 	font-family: Palatino, Palatino Linotype;
@@ -33,7 +35,6 @@ body {
 #layout-menu td {
 	background: #F8F8F8;
     vertical-align: top;
-	background-position: center 20px;
 }
 
 #layout-content {
