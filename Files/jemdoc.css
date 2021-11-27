@@ -26,7 +26,7 @@ body {
 	font-size: 1em;
 	width: auto;
 	white-space: nowrap;
-        text-align: center;
+        text-align: middle;
         vertical-align: top;
 }
 
@@ -41,7 +41,7 @@ body {
 	padding-right: 1.0em;
     border: none;
     background: #F0F0F0;
-    text-align: center;
+    text-align: middle;
     vertical-align: top;
 }
 
