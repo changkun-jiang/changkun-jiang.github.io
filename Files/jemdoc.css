@@ -14,7 +14,7 @@ body {
 	font-size: 100%;
 	font-style: normal;
         font-weight: 400;
-	margin: 0 auto;
+	margin: 0;
 }
 
 #layout-menu {
@@ -41,7 +41,7 @@ body {
 	padding-right: 1.0em;
     border: none;
     background: #F0F0F0;
-    text-align: left;
+    text-align: center;
     vertical-align: top;
 }
 
